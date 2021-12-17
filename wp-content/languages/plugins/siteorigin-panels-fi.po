@@ -1,0 +1,1143 @@
+# Translation of Plugins - Page Builder by SiteOrigin - Stable (latest release) in Finnish
+# This file is distributed under the same license as the Plugins - Page Builder by SiteOrigin - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-05-31 13:04:23+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: fi\n"
+"Project-Id-Version: Plugins - Page Builder by SiteOrigin - Stable (latest release)\n"
+
+#: widgets/widgets.php:781
+msgid "Attachment Page"
+msgstr "Liitesivu"
+
+#: widgets/widgets.php:893
+msgid "Video"
+msgstr "Video"
+
+#: widgets/widgets.php:800
+msgid "Image (PB)"
+msgstr "Kuva (PB)"
+
+#. Plugin URI of the plugin
+msgid "https://siteorigin.com/page-builder/"
+msgstr "https://siteorigin.com/page-builder/"
+
+#. Plugin Name of the plugin
+msgid "Page Builder by SiteOrigin"
+msgstr "Page Builder by SiteOrigin"
+
+#. Author of the plugin
+msgid "SiteOrigin"
+msgstr "SiteOrigin"
+
+#. Author URI of the plugin
+msgid "https://siteorigin.com"
+msgstr "https://siteorigin.com"
+
+#: widgets/widgets.php:782
+msgid "File"
+msgstr "Tiedosto"
+
+#. Description of the plugin
+msgid "A drag and drop, responsive page builder that simplifies building your website."
+msgstr "Vedä ja pudota -menetelmää hyödyntävä, mukautuva Page Builder, joka yksinkertaistaa verkkosivusi rakentamista."
+
+#: widgets/widgets.php:964
+msgid "Auto Play Video"
+msgstr "Automaattinen videon toisto"
+
+#: widgets/widgets.php:959
+msgid "An image that displays before the video starts playing."
+msgstr "Kuva, joka näytetään ennen kuin video alkaa pyöriä."
+
+#: widgets/widgets.php:957
+msgid "Poster URL"
+msgstr "Posterin verkko-osoite"
+
+#: widgets/widgets.php:953
+msgid "Video URL"
+msgstr "Videon verkko-osoite"
+
+#: widgets/widgets.php:911
+msgid "A self hosted video player."
+msgstr "Itse ylläpidetty videosoitin."
+
+#: widgets/widgets.php:909
+msgid "Self Hosted Video (PB)"
+msgstr "Itse ylläpidetty video (PB)"
+
+#: widgets/widgets.php:855
+msgid "Embeds a video."
+msgstr "Upottaa videon."
+
+#: widgets/widgets.php:853
+msgid "Embedded Video (PB)"
+msgstr "Upotettu video (PB)"
+
+#: widgets/widgets.php:802
+msgid "Displays a simple image."
+msgstr "Näyttää yksinkertaisen kuvan."
+
+#: inc/widgets/post-content.php:61 inc/widgets/post-loop-helper.php:41
+#: inc/widgets/post-loop.php:295
+#: widgets/widgets/call-to-action/call-to-action.php:15
+#: widgets/widgets/list/list.php:15 widgets/widgets/price-box/price-box.php:15
+msgid "Title"
+msgstr "Otsikko"
+
+#: inc/widgets/post-loop.php:353 widgets/widgets.php:613
+msgid "Date"
+msgstr "Päiväys"
+
+#: widgets/widgets/call-to-action/call-to-action.php:37
+#: widgets/widgets/price-box/price-box.php:49
+msgid "Button"
+msgstr "Painike"
+
+#: widgets/widgets/testimonial/testimonial.php:32
+msgid "URL"
+msgstr "URL"
+
+#: widgets/widgets/price-box/price-box.php:19
+msgid "Price"
+msgstr "Hinta"
+
+#: widgets/widgets/testimonial/testimonial.php:23
+msgid "Image"
+msgstr "Kuva"
+
+#: widgets/widgets.php:835 widgets/widgets/animated-image/animated-image.php:15
+msgid "Image URL"
+msgstr "Kuvan URL"
+
+#: inc/styles-admin.php:226 widgets/widgets/button/button.php:29
+msgid "Left"
+msgstr "Vasen"
+
+#: inc/styles-admin.php:218 widgets/widgets/button/button.php:30
+msgid "Right"
+msgstr "Oikea"
+
+#: inc/styles.php:304 inc/widgets/post-loop.php:374 widgets/widgets.php:635
+#: widgets/widgets.php:757
+msgid "Default"
+msgstr "Oletus"
+
+#: inc/widgets/post-loop-helper.php:45 inc/widgets/post-loop.php:299
+msgid "Template"
+msgstr "Malli"
+
+#: widgets/widgets/testimonial/testimonial.php:19
+msgid "Location"
+msgstr "Sijainti"
+
+#: inc/widgets/post-loop.php:351 inc/widgets/post-loop.php:352
+#: widgets/widgets.php:611 widgets/widgets.php:612
+#: widgets/widgets/testimonial/testimonial.php:15
+msgid "Name"
+msgstr "Nimi"
+
+#: widgets/widgets.php:779
+msgid "Link To"
+msgstr "Linkitä kohteeseen"
+
+#: widgets/widgets.php:760
+msgid "Thumbnail"
+msgstr "Pikkukuva"
+
+#: widgets/widgets.php:759
+msgid "Medium"
+msgstr "Keskikokoinen"
+
+#: widgets/widgets.php:758
+msgid "Large"
+msgstr "Suuri"
+
+#: widgets/widgets/button/button.php:15 widgets/widgets/list/list.php:19
+#: widgets/widgets/testimonial/testimonial.php:27
+msgid "Text"
+msgstr "Teksti"
+
+#: inc/widgets/post-loop.php:346 widgets/widgets.php:606
+msgid "Order By"
+msgstr "Järjestystapa"
+
+#: inc/widgets/post-loop.php:364 widgets/widgets.php:624
+msgid "Order"
+msgstr "Järjestys"
+
+#: inc/widgets/post-loop.php:367 widgets/widgets.php:626
+msgid "Ascending"
+msgstr "Nouseva"
+
+#: inc/widgets/post-loop.php:366 widgets/widgets.php:627
+msgid "Descending"
+msgstr "Laskeva"
+
+#: inc/widgets/post-content.php:60 inc/widgets/post-loop.php:348
+#: widgets/widgets.php:608 widgets/widgets.php:783
+msgid "None"
+msgstr "Ei mitään"
+
+#: inc/widgets/post-loop.php:355 widgets/widgets.php:615
+msgid "Parent"
+msgstr "Ylempi taso"
+
+#: inc/widgets/post-loop.php:358 widgets/widgets.php:618
+msgid "Menu Order"
+msgstr "Valikkojärjestys"
+
+#: inc/widgets/post-loop.php:350 widgets/widgets.php:610
+msgid "Author"
+msgstr "Tekijä"
+
+#: widgets/widgets.php:774
+msgid "Columns"
+msgstr "Sarakkeet"
+
+#: inc/widgets/post-content.php:62
+msgid "Featured Image"
+msgstr "Artikkelikuva"
+
+#: widgets/widgets.php:761
+msgid "Full"
+msgstr "Täysi"
+
+#: inc/widgets/post-content.php:12
+msgid "Post Content"
+msgstr "Julkaisun sisältö"
+
+#: widgets/widgets/button/button.php:23
+#: widgets/widgets/call-to-action/call-to-action.php:31
+#: widgets/widgets/price-box/price-box.php:44
+#: widgets/widgets/testimonial/testimonial.php:36
+msgid "Open In New Window"
+msgstr "Avaa uudessa ikkunassa"
+
+#: widgets/widgets.php:705
+msgid "Gallery (PB)"
+msgstr "Galleria (PB)"
+
+#: widgets/widgets.php:746
+msgid "Gallery Images"
+msgstr "Gallerian kuvat"
+
+#: widgets/widgets.php:755
+msgid "Image Size"
+msgstr "Kuvan koko"
+
+#: widgets/widgets/animated-image/animated-image.php:6
+msgid "Animated Image (PB)"
+msgstr "Animoitu kuva (PB)"
+
+#: widgets/widgets/animated-image/animated-image.php:19
+msgid "Animation"
+msgstr "Animaatio"
+
+#: widgets/widgets/button/button.php:6
+msgid "Button (PB)"
+msgstr "Painike (PB)"
+
+#: widgets/widgets/call-to-action/call-to-action.php:23
+#: widgets/widgets/price-box/price-box.php:36
+msgid "Button Text"
+msgstr "Painikkeen teksti"
+
+#: widgets/widgets.php:839 widgets/widgets/button/button.php:19
+msgid "Destination URL"
+msgstr "Kohteen verkko-osoite (URL)"
+
+#: widgets/widgets.php:769
+msgid "Gallery Type"
+msgstr "Gallerian tyyppi"
+
+#: widgets/widgets.php:751
+msgid "Comma separated attachment IDs. Defaults to all current page's attachments."
+msgstr "Pilkulla erotetut liitetiedostojen tunnisteet. Pätee oletuksena kaikkiin nykyisen sivun liitteisiin."
+
+#: widgets/widgets.php:747
+msgid "edit gallery"
+msgstr "muokkaa galleriaa"
+
+#: widgets/widgets.php:707
+msgid "Displays a gallery."
+msgstr "Näyttää gallerian."
+
+#: widgets/widgets/call-to-action/call-to-action.php:19
+msgid "Sub Title"
+msgstr "Alaotsikko"
+
+#: widgets/widgets/call-to-action/call-to-action.php:8
+msgid "A Call to Action block"
+msgstr "Kutsu toimintaa -palikka"
+
+#: widgets/widgets/call-to-action/call-to-action.php:6
+msgid "Call To Action (PB)"
+msgstr "Kutsu toimintaan (PB)"
+
+#: widgets/widgets/button/button.php:32
+msgid "Justify"
+msgstr "Tasaa"
+
+#: inc/styles.php:318 inc/styles.php:375 widgets/widgets/button/button.php:31
+msgid "Center"
+msgstr "Keskitys"
+
+#: widgets/widgets/button/button.php:27
+msgid "Button Alignment"
+msgstr "Painikkeiden kohdistaminen"
+
+#: widgets/widgets/animated-image/animated-image.php:25
+msgid "Slide Right"
+msgstr "Liuta oikealle"
+
+#: widgets/widgets/animated-image/animated-image.php:24
+msgid "Slide Left"
+msgstr "Liuta vasemmalle"
+
+#: widgets/widgets/animated-image/animated-image.php:23
+msgid "Slide Down"
+msgstr "Liuta alas"
+
+#: widgets/widgets/animated-image/animated-image.php:22
+msgid "Slide Up"
+msgstr "Liuta Ylös"
+
+#: widgets/widgets/animated-image/animated-image.php:21
+msgid "Fade In"
+msgstr "Häivytä"
+
+#: widgets/widgets/animated-image/animated-image.php:8
+msgid "An image that animates in when it enters the screen."
+msgstr "Kuva joka liikkuu, kun se tulee näytölle."
+
+#: inc/widgets/post-loop.php:389 widgets/widgets.php:648
+msgid "Additional query arguments. See 1{query_posts}."
+msgstr "Lisäkyselyargumentit. Katso 1{query_posts}."
+
+#: inc/widgets/post-loop.php:382
+msgid "Additional "
+msgstr "Lisä"
+
+#: inc/widgets/post-loop.php:376 widgets/widgets.php:637
+msgid "Exclude Sticky"
+msgstr "Sisällytä pysyvät"
+
+#: inc/widgets/post-loop.php:375 widgets/widgets.php:636
+msgid "Ignore Sticky"
+msgstr "Sivuuta pysyvät"
+
+#: inc/widgets/post-loop.php:372 widgets/widgets.php:633
+msgid "Sticky Posts"
+msgstr "Pysyvät artikkelit"
+
+#: inc/widgets/post-loop.php:359
+msgid "Post In Order"
+msgstr "Artikkelit järjestyksessä"
+
+#: inc/widgets/post-loop.php:357 widgets/widgets.php:617
+msgid "Comment Count"
+msgstr "Kommenttien lukumäärä"
+
+#: inc/widgets/post-loop.php:356 widgets/widgets.php:616
+msgid "Random"
+msgstr "Satunnainen"
+
+#: inc/widgets/post-loop.php:354 widgets/widgets.php:614
+msgid "Modified"
+msgstr "Muokattu"
+
+#: inc/widgets/post-loop.php:349 widgets/widgets.php:609
+msgid "Post ID"
+msgstr "Artikkelin tunniste"
+
+#: inc/widgets/post-loop.php:341 widgets/widgets.php:601
+msgid "Posts Per Page"
+msgstr "Artikkeleita sivulla"
+
+#: inc/widgets/post-loop.php:332 widgets/widgets.php:594
+msgid "Post Type"
+msgstr "Artikkelityyppi"
+
+#: inc/widgets/post-loop-helper.php:52 inc/widgets/post-loop.php:317
+msgid "If the template supports it, cut posts and display the more link."
+msgstr "Typistä artikkelit ja näytä lisää-linkki, jos sivupohja tukee sitä."
+
+#: inc/widgets/post-loop.php:264
+msgid "Your theme doesn't have any post loops."
+msgstr "Sinun teemassasi ei ole yhtään artikkelisilmukkaa."
+
+#: inc/widgets/post-loop-helper.php:33 inc/widgets/post-loop.php:26
+msgid "Displays a post loop."
+msgstr "Näyttää artikkelisilmukan."
+
+#: inc/widgets/post-loop-helper.php:31 inc/widgets/post-loop.php:24
+msgid "Post Loop"
+msgstr "Artikkelisilmukka"
+
+#: inc/widgets/post-content.php:68
+msgid "Display Content"
+msgstr "Näytä sisältö"
+
+#: inc/widgets/post-content.php:14
+msgid "Displays content from the current post."
+msgstr "Näyttää nykyisen artikkelin sisällön."
+
+#: inc/widgets/layout.php:119
+msgid "Open Builder"
+msgstr "Avoin rakentaja"
+
+#: inc/widgets/layout.php:15
+msgid "A complete SiteOrigin Page Builder layout as a widget."
+msgstr "Täydellinen SiteOrigin Page Builder -sivutaitto vimpaimena."
+
+#: inc/widgets/layout.php:13
+msgid "Layout Builder"
+msgstr "Ulkoasurakentaja"
+
+#: inc/widgets/post-loop.php:377 widgets/widgets.php:638
+msgid "Only Sticky"
+msgstr "Vain kiinnitetyt"
+
+#: widgets/widgets.php:644
+msgid "Additional Arguments"
+msgstr "Lisäargumentit"
+
+#: widgets/widgets.php:244
+msgid "%s Style"
+msgstr "%s tyyli"
+
+#: widgets/widgets.php:220
+msgid "Style"
+msgstr "Tyyli"
+
+#: widgets/widgets/testimonial/testimonial.php:8
+msgid "Displays a bullet list of points"
+msgstr "Näytää luettelon kohdista."
+
+#: widgets/widgets/testimonial/testimonial.php:6
+msgid "Testimonial (PB)"
+msgstr "Suositus (PB)"
+
+#: widgets/widgets/price-box/price-box.php:50
+msgid "Feature List"
+msgstr "Kohokohtaluettelo"
+
+#: widgets/widgets/price-box/price-box.php:31
+msgid "Features Text"
+msgstr "Kohokohtien teksti"
+
+#: widgets/widgets/price-box/price-box.php:27
+msgid "Information Text"
+msgstr "Tietoteksti"
+
+#: widgets/widgets/price-box/price-box.php:23
+msgid "Per"
+msgstr "/"
+
+#: widgets/widgets/price-box/price-box.php:6
+msgid "Price Box (PB)"
+msgstr "Hintalaatikko (PB)"
+
+#: widgets/widgets/list/list.php:20 widgets/widgets/price-box/price-box.php:32
+msgid "Start each new point with an asterisk (*)"
+msgstr "Aloita jokainen uusi kohta asteriskilla (*)"
+
+#: widgets/widgets/list/list.php:8 widgets/widgets/price-box/price-box.php:8
+msgid "Displays a bullet list of elements"
+msgstr "Näyttää luettelon elementeistä"
+
+#: widgets/widgets/list/list.php:6
+msgid "List (PB)"
+msgstr "Luettelo (PB)"
+
+#: widgets/widgets/call-to-action/call-to-action.php:27
+#: widgets/widgets/price-box/price-box.php:40
+msgid "Button URL"
+msgstr "Painikkeen verkko-osoite"
+
+#: inc/styles-admin.php:271
+msgid "Select Image"
+msgstr "Valitse tuotava kuva"
+
+#: tpl/js-templates.php:412
+msgid "Import/Export"
+msgstr "Tuo/vie"
+
+#: tpl/js-templates.php:156 tpl/js-templates.php:282 tpl/js-templates.php:367
+msgid "Delete"
+msgstr "Poista"
+
+#: tpl/js-templates.php:150 tpl/js-templates.php:283 tpl/js-templates.php:368
+msgid "Duplicate"
+msgstr "Monista"
+
+#: tpl/js-templates.php:251 tpl/js-templates.php:571
+msgid "Close"
+msgstr "Sulje"
+
+#: inc/admin-widget-dialog.php:155
+msgid "WooCommerce"
+msgstr "WooCommerce-lisäosa."
+
+#: settings/tpl/settings.php:84
+msgid "Save Settings"
+msgstr "Tallenna asetukset"
+
+#: inc/settings.php:388 tpl/js-templates.php:144
+msgid "Edit"
+msgstr "Muokkaa"
+
+#: inc/settings.php:526
+msgid "Content"
+msgstr "Sisältö"
+
+#: tpl/js-templates.php:397
+msgid "Search"
+msgstr "Haku"
+
+#: tpl/js-templates.php:449
+msgid "Enable"
+msgstr "Käytä"
+
+#: inc/admin.php:475
+msgid "Column"
+msgstr "Sarake"
+
+#: tpl/js-templates.php:490
+msgid "Previous"
+msgstr "Edellinen"
+
+#: tpl/js-templates.php:491
+msgid "Next"
+msgstr "Seuraava"
+
+#: tpl/js-templates.php:221 tpl/js-templates.php:286 tpl/js-templates.php:375
+msgid "Done"
+msgstr "Valmis"
+
+#: tpl/admin-home-page.php:21
+msgid "On"
+msgstr "Päällä"
+
+#: tpl/admin-home-page.php:21
+msgid "Off"
+msgstr "Pois käytöstä"
+
+#: inc/styles-admin.php:129
+msgid "Theme"
+msgstr "Teema"
+
+#: inc/settings.php:278
+msgid "General"
+msgstr "Yleistä"
+
+#: inc/settings.php:592 inc/styles-admin.php:301
+msgid "Enabled"
+msgstr "Käytössä"
+
+#: inc/styles-admin.php:276
+msgid "Remove"
+msgstr "Poista"
+
+#: inc/admin.php:464 tpl/js-templates.php:97 tpl/js-templates.php:437
+msgid "Are you sure?"
+msgstr "Oletko varma?"
+
+#: inc/settings.php:284
+msgid "Post Types"
+msgstr "Artikkelien lajit"
+
+#: tpl/admin-home-page.php:25
+msgid "Custom Home Page"
+msgstr "Mukautettu etusivu"
+
+#: inc/admin.php:187 inc/admin.php:628 inc/admin.php:1298 inc/admin.php:1303
+#: inc/settings.php:235 tpl/js-templates.php:212
+msgid "Page Builder"
+msgstr "Page Builder -lisäosa"
+
+#: inc/admin-widgets-bundle.php:77
+msgid "Installing %s"
+msgstr "Asentaa %s"
+
+#: tpl/js-templates.php:22 tpl/js-templates.php:402
+msgid "Prebuilt Layouts"
+msgstr "Esiasetetut asettelut"
+
+#: inc/admin-dashboard.php:95
+msgid "Support Forum"
+msgstr "Tuen keskustelupalsta"
+
+#: siteorigin-panels.php:391
+msgid "Read More"
+msgstr "Lue lisää"
+
+#: inc/admin.php:415
+msgid "Now"
+msgstr "Nyt"
+
+#: inc/admin.php:474 tpl/js-templates.php:17 tpl/js-templates.php:19
+msgid "Add Row"
+msgstr "﻿Lisää rivi"
+
+#: inc/admin.php:488 tpl/js-templates.php:95
+msgid "Edit Row"
+msgstr "Muokkaa riviä"
+
+#: inc/admin.php:489 tpl/js-templates.php:96
+msgid "Duplicate Row"
+msgstr "Monista rivi"
+
+#: inc/admin.php:490 tpl/js-templates.php:97
+msgid "Delete Row"
+msgstr "Poista rivi"
+
+#: tpl/js-templates.php:336
+msgid "Left to Right"
+msgstr "Vasemmalta oikealle"
+
+#: tpl/js-templates.php:337
+msgid "Right to Left"
+msgstr "Oikealta vasemmalle"
+
+#: inc/admin.php:411
+msgid "%d hour"
+msgstr "%d tunti"
+
+#: inc/admin.php:404
+msgid "%d hours"
+msgstr "%d tuntia"
+
+#: inc/admin.php:409
+msgid "%d minute"
+msgstr "%d minuutti"
+
+#: inc/admin.php:402
+msgid "%d minutes"
+msgstr "%d minuuttia"
+
+#: inc/admin.php:407
+msgid "%d second"
+msgstr "%d sekunti"
+
+#: inc/admin.php:400
+msgid "%d seconds"
+msgstr "%d sekuntia"
+
+#: inc/admin.php:360
+msgid "All Widgets"
+msgstr "Kaikki vimpaimet"
+
+#: inc/admin-widget-dialog.php:177
+msgid "BBPress"
+msgstr "BBPress"
+
+#: inc/admin-widgets-bundle.php:19 inc/admin-widgets-bundle.php:20
+msgid "Install Page Builder Plugin"
+msgstr "Asenna Page Builder -lisäosa"
+
+#: inc/admin-widget-dialog.php:166
+msgid "Jetpack"
+msgstr "Jetpack"
+
+#: tpl/admin-home-page.php:60
+msgid "Save Home Page"
+msgstr "Tallenna etusivu"
+
+#: inc/admin.php:421
+msgid "Version restored"
+msgstr "Versio palautettu"
+
+#: inc/admin.php:992
+msgid "You need to install 1{%1$s} to use the widget 2{%2$s}."
+msgstr "Sinun on asennettava 1{%1$s}, jotta voit käyttää \"2{%2$s}\"-vimpainta."
+
+#: inc/settings.php:397
+msgid "Widgets"
+msgstr "Vimpaimet"
+
+#: inc/settings.php:403
+msgid "Widget Title HTML"
+msgstr "Vimpaimen otsikon HTML-koodi"
+
+#: inc/settings.php:404
+msgid "The HTML used for widget titles. {{title}} is replaced with the widget title."
+msgstr "HTML-koodi, jota käytetään vimpainten otsikoissa. {{title}}-merkintä korvautuu vimpaimen nimerllä."
+
+#: inc/settings.php:415
+msgid "Legacy Bundled Widgets"
+msgstr "Vanhat vimpaimet"
+
+#: inc/settings.php:416
+msgid "Load legacy widgets from Page Builder 1."
+msgstr "Lataa Page Builder 1 -version vimpaimet."
+
+#: inc/admin-widget-dialog.php:185 inc/settings.php:421
+msgid "Recommended Widgets"
+msgstr "Suositellut vimpaimet"
+
+#: inc/settings.php:434 inc/styles-admin.php:103
+msgid "Layout"
+msgstr "Ulkoasu"
+
+#: inc/settings.php:442
+msgid "Responsive Layout"
+msgstr "Mukautuva ulkoasu"
+
+#: inc/settings.php:532
+msgid "Copy Content"
+msgstr "Kopioi sisältö"
+
+#: inc/admin.php:998
+msgid "Save and reload this page to start using the widget after you've installed it."
+msgstr "Tallenna tämä sivu, asenna puuttuva vimpain ja palaa sitten tälle sivulle, niin pääset käyttämään vimpainta."
+
+#: inc/settings.php:533
+msgid "Copy content from Page Builder to post content."
+msgstr "Kopio sisältö Page Builderista artikkeliin/sivulle."
+
+#: inc/admin.php:414
+msgid "%s before"
+msgstr "%s aikaisemmin"
+
+#: tpl/js-templates.php:235
+msgid "Add New Widget %s"
+msgstr "Lisää uusi vimpain %s"
+
+#: tpl/js-templates.php:12 tpl/js-templates.php:14
+msgid "Add Widget"
+msgstr "Lisää vimpain"
+
+#: tpl/js-templates.php:545
+msgid "Restore Version"
+msgstr "Palauta versio"
+
+#: inc/admin.php:440
+msgid "Row added"
+msgstr "Rivi lisätty"
+
+#: inc/admin.php:420
+msgid "Original"
+msgstr "Alkuperäinen"
+
+#: inc/admin.php:419
+msgid "Current"
+msgstr "Nykyinen"
+
+#: inc/admin-layouts.php:40 inc/admin-layouts.php:222
+msgid "Layouts Directory"
+msgstr "Asettelumallien hakemisto"
+
+#: tpl/js-templates.php:462
+msgid "Your search didn't return any results"
+msgstr "Hakusi ei palauttanut yhtään hakutulosta."
+
+#: tpl/js-templates.php:419
+msgid "Clone: %s"
+msgstr "Kopioi: %s"
+
+#: inc/styles-admin.php:70
+msgid "Widget Styles"
+msgstr "Vimpaimen tyylit"
+
+#: inc/styles-admin.php:99
+msgid "Attributes"
+msgstr "Attribuutit"
+
+#: tpl/admin-home-page.php:41
+msgid "Home page updated. 1{View page}."
+msgstr "Etusivu päivitetty. 1{Näytä sivu}."
+
+#: tpl/js-templates.php:348
+msgid "1{Set row layout}: %1$s columns with a ratio of %2$s going from %3$s"
+msgstr "1{Määrittele rivin asettelu}: %1$s palstaa, joiden leveyksien suhde on %2$s Suhteet lasketaan %3$s"
+
+#: tpl/js-templates.php:530
+msgid "Page Builder Change History"
+msgstr "Page Builderin muutoshistoria"
+
+#: tpl/js-templates.php:31
+msgid "History"
+msgstr "Historia"
+
+#: inc/admin.php:711 inc/home.php:26
+msgid "Home Page"
+msgstr "Etusivu"
+
+#: tpl/js-templates.php:618
+msgid "No Results"
+msgstr "Ei tuloksia"
+
+#: tpl/js-templates.php:519
+msgid "Download Layout"
+msgstr "Tallenna ulkoasu tietokoneellesi"
+
+#: tpl/js-templates.php:501
+msgid "Drop import file here"
+msgstr "Pudota tuotava tiedosto tähän"
+
+#: tpl/js-templates.php:448
+msgid "Do you want to browse the Prebuilt Layouts directory?"
+msgstr "Haluatko selata esirakennettujen ulkoasujen tiedostoa?"
+
+#: tpl/js-templates.php:373 tpl/js-templates.php:431
+msgid "Insert"
+msgstr "Lisää"
+
+#: tpl/js-templates.php:354
+msgid "Set"
+msgstr "Aseta"
+
+#: siteorigin-panels.php:586 tpl/js-templates.php:34 tpl/js-templates.php:36
+msgid "Live Editor"
+msgstr "Live-editori"
+
+#: tpl/help.php:18
+msgid "Read the 1{full documentation} on SiteOrigin. Ask a question on our 2{support forum} if you need help and sign up to 3{our newsletter} to stay up to date with future developments."
+msgstr "Lue 1{koko dokumentaatio} SiteOriginissa. Kysy kysymyksiä meidän 2{tukifoorumillamme}, jos tarvitset apua, ja tilaa 3{uutiskirjeemme} pysyäksesi ajantasalla tulevasta kehityksestä."
+
+#: tpl/js-templates.php:505
+msgid "Select Import File"
+msgstr "Valitse tuontitiedosto"
+
+#: tpl/help.php:3
+msgid "The page layouts are responsive and fully customizable."
+msgstr "Sivujen ulkoasut ovat mukautuvia ja täysin kustomoitavissa."
+
+#: tpl/help.php:2
+msgid "You can use SiteOrigin Page Builder to create home and sub pages, filled your own widgets."
+msgstr "Voit käyttää SiteOrigin sivurakentajaa kun luot etu- ja alisivuja, jotka ovat täynnä omia vimpaimiasi."
+
+#: tpl/admin-home-page.php:64
+msgid "This interface requires Javascript"
+msgstr "Tämä rajapinta vaatii Javascriptin."
+
+#: inc/admin.php:1014
+msgid "The widget 1{%1$s} is not available. Please try locate and install the missing plugin. Post on the 2{support forums} if you need help."
+msgstr "Vimpain 1{%1$s} ei ole saatavilla. Yritä paikantaa ja asentaa puuttuva liitännäinen. Lähetä viesti 2{tukifoorumilla}, jos tarvitset apua."
+
+#: siteorigin-panels.php:566
+msgid "Edit Home Page"
+msgstr "Muokkaa kotisivua"
+
+#: inc/admin.php:812
+msgid "Untitled Widget"
+msgstr "Nimetön vimpain"
+
+#: inc/admin.php:520
+msgid "Error uploading or importing file."
+msgstr "Virhe ladattaessa tai tuotaessa tiedostoa."
+
+#: inc/admin.php:519
+msgid "Page Builder layouts"
+msgstr " Page Builder -ulkoasut"
+
+#: inc/admin.php:472 tpl/js-templates.php:239
+msgid "Search Widgets"
+msgstr "Haku-vimpaimet"
+
+#: inc/admin.php:471
+msgid "Add Widget to Cell"
+msgstr "Lisää vimpain soluun"
+
+#: inc/admin.php:470
+msgid "Add Widget Below"
+msgstr "Lisää vimpain alle"
+
+#: inc/admin.php:462
+msgid "Layout Builder Widget"
+msgstr "Ulkoasun rakentaja-vimpain"
+
+#: inc/admin.php:460
+msgid "Would you like to clear your Page Builder content and revert to using the standard visual editor?"
+msgstr "Haluatko tyhjentää sivunrakentajan sisällön ja palata takaisin käyttämään graafista muokkainta?"
+
+#: inc/admin.php:459
+msgid "Would you like to copy this editor's existing content to Page Builder?"
+msgstr "Haluatko kopioida tämän muokkaimen sisällön Page Builderiin?"
+
+#: inc/admin.php:458
+msgid "Loading prebuilt layout"
+msgstr "Ladataan"
+
+#: inc/admin.php:446
+msgid "Row duplicated"
+msgstr "Rivi kahdennettu"
+
+#: inc/admin.php:444
+msgid "Row moved"
+msgstr "Rivi siirretty"
+
+#: inc/admin.php:442
+msgid "Row edited"
+msgstr "Rivi muokattu"
+
+#: inc/admin.php:438
+msgid "Row deleted"
+msgstr "Rivi poistettu"
+
+#: inc/admin.php:434
+msgid "Widget moved"
+msgstr "Vimpain siirretty"
+
+#: inc/admin.php:432
+msgid "Widget duplicated"
+msgstr "Vimpain kahdennettu"
+
+#: inc/admin.php:430
+msgid "Widget edited"
+msgstr "Vimpain muokattu"
+
+#: inc/admin.php:428
+msgid "Widget added"
+msgstr "Vimpain lisätty"
+
+#: inc/admin.php:426
+msgid "Widget deleted"
+msgstr "Vimpain poistettu"
+
+#: inc/admin.php:422
+msgid "Converted to editor"
+msgstr "Muunnettu muokkaimeen"
+
+#: inc/admin.php:396
+msgid "Page Builder doesn't know about this widget."
+msgstr "Sivurakentaja ei tunne tätä vimpainta."
+
+#: inc/admin.php:395
+msgid "Missing Widget"
+msgstr "Puuttuva vimpain"
+
+#: inc/home.php:25
+msgid "Custom Home Page Builder"
+msgstr "Kustomoitu kotisivurakentaja"
+
+#: settings/tpl/settings.php:30
+msgid "Settings Saved"
+msgstr "Asetukset tallennettu"
+
+#: settings/tpl/settings.php:12
+msgid "Search Settings"
+msgstr "Hakuasetukset"
+
+#: inc/admin-widget-dialog.php:121
+msgid "Install the 1{Widgets Bundle} to get extra widgets."
+msgstr "Asenna 1{vimpainnippu} saadaksesi lisävimpaimia."
+
+#: inc/admin-widget-dialog.php:114
+msgid "Enable more widgets in the 1{Widgets Bundle settings}."
+msgstr "Ota käyttöön lisää vimpaimia 1{vimpainnippuasetuksissa}."
+
+#: inc/admin-widget-dialog.php:99 widgets/widgets.php:164
+msgid "Widgets Bundle"
+msgstr "Vimpainnippu"
+
+#: inc/data/widgets-bundle.php:68
+msgid "Display your posts as a carousel."
+msgstr "Näytä artikkelisi karusellissa."
+
+#: inc/data/widgets-bundle.php:67
+msgid "SiteOrigin Post Carousel"
+msgstr "SiteOrigin artikkelikaruselli"
+
+#: inc/data/widgets-bundle.php:56
+msgid "Display site features as a collection of icons."
+msgstr "Näytä sivutoiminnot kuvakekokoelmana"
+
+#: inc/data/widgets-bundle.php:44
+msgid "A basic slider widget."
+msgstr "Yksinkertainen kuvaesitysvimpain"
+
+#: inc/data/widgets-bundle.php:43
+msgid "SiteOrigin Slider"
+msgstr "SiteOrigin kuvaesitysvimpain"
+
+#: inc/data/widgets-bundle.php:32
+msgid "Choose images from your media library."
+msgstr "Valitse kuvat mediakirjastostasi."
+
+#: inc/data/widgets-bundle.php:31
+msgid "SiteOrigin Image"
+msgstr "SiteOrigin kuva"
+
+#: inc/data/widgets-bundle.php:20 widgets/widgets/button/button.php:8
+msgid "A simple button"
+msgstr "Yksinkertainen painike"
+
+#: inc/data/widgets-bundle.php:19
+msgid "SiteOrigin Button"
+msgstr "SiteOrigin painike"
+
+#: inc/admin-widget-dialog.php:120 inc/data/widgets-bundle.php:11
+#: inc/data/widgets-bundle.php:23 inc/data/widgets-bundle.php:35
+#: inc/data/widgets-bundle.php:47 inc/data/widgets-bundle.php:59
+#: inc/data/widgets-bundle.php:71
+msgid "SiteOrigin Widgets Bundle"
+msgstr "SiteOrigin vimpainnippu"
+
+#: inc/data/widgets-bundle.php:8
+msgid "A rich text editor"
+msgstr "Monipuolinen tekstimuokkain"
+
+#: inc/admin.php:451
+msgid "Cell resized"
+msgstr "Solun koko muutettu"
+
+#: inc/styles.php:223
+msgid "How the background image is displayed."
+msgstr "Miten taustakuva näytetään."
+
+#: inc/styles.php:221
+msgid "Parallax"
+msgstr "Parallaksi"
+
+#: settings/tpl/help.php:6
+msgid "Please read the 1{settings guide} of the Page Builder documentation for help."
+msgstr "Lue  Page Builderin dokumentaation 1{asetusopas} saadaksesi apua."
+
+#: inc/settings.php:262
+msgid "Page Builder Settings"
+msgstr " Page Builderin asetukset"
+
+#: inc/admin.php:1553 inc/admin.php:1600 inc/settings.php:235
+#: settings/tpl/settings.php:9
+msgid "SiteOrigin Page Builder"
+msgstr "SiteOrigin Page Builder"
+
+#: inc/admin-widget-dialog.php:129
+msgid "Page Builder Widgets"
+msgstr " Page Builder -vimpaimet"
+
+#: inc/revisions.php:83
+msgid "Page Builder Content"
+msgstr " Page Builder -sisältö"
+
+#: inc/admin.php:454
+msgid "Prebuilt layout loaded"
+msgstr "Esivalmistettu ulkoasu ladattu"
+
+#: inc/settings.php:508
+msgid "The container used for the full width layout."
+msgstr "Säiliö, jota käytetään täysileveään sivutaittoon."
+
+#: inc/settings.php:507
+msgid "Full Width Container"
+msgstr "Täysileveä säiliö"
+
+#: inc/settings.php:500
+msgid "Row Gutter"
+msgstr "Riviväli"
+
+#: inc/settings.php:501
+msgid "Default spacing between columns in each row."
+msgstr "Sarakkeiden välinen oletusvälistys jokaisella rivillä."
+
+#: inc/settings.php:473
+msgid "Mobile Width"
+msgstr "Leveys mobiililaitteessa"
+
+#: inc/admin-widget-dialog.php:145
+msgid "WordPress Widgets"
+msgstr "WordPress-vimpaimet"
+
+#: tpl/js-templates.php:502
+msgid "Or"
+msgstr "Tai"
+
+#: inc/admin-widget-dialog.php:137
+msgid "You can enable the legacy (PB) widgets in the 1{Page Builder settings}."
+msgstr "Voi ottaa käyttöön vanhemmat (PB) vimpaimet 1{Page Builder -asetuksissa}."
+
+#: inc/data/widgets-bundle.php:55
+msgid "SiteOrigin Features"
+msgstr "SiteOrigin -ominaisuudet"
+
+#: inc/data/widgets-bundle.php:7
+msgid "SiteOrigin Editor"
+msgstr "SiteOrigin -muokkain"
+
+#: inc/styles-admin.php:115
+msgid "Design"
+msgstr "Suunnitelu"
+
+#: inc/styles-admin.php:61
+msgid "Row Styles"
+msgstr "Rivityylit"
+
+#: inc/styles.php:434
+msgid "Color of text inside this widget."
+msgstr "Tekstin väri tämän vimpaimen sisällä."
+
+#: inc/styles.php:383 inc/styles.php:431
+msgid "Font Color"
+msgstr "Fontin väri"
+
+#: inc/styles.php:228
+msgid "Border Color"
+msgstr "Reunaväri"
+
+#: inc/styles.php:204
+msgid "Background Image"
+msgstr "Taustakuva"
+
+#: inc/styles.php:196
+msgid "Background Color"
+msgstr "Taustan väri"
+
+#: inc/styles.php:152
+msgid "Padding"
+msgstr "Täyte"
+
+#: inc/styles.php:217
+msgid "Cover"
+msgstr "Peitä"
+
+#: inc/styles.php:268
+msgid "Gutter"
+msgstr "Palstaväli"
+
+#: inc/styles.php:281
+msgid "Full Width"
+msgstr "Täysi leveys"
+
+#: inc/styles.php:280 inc/styles.php:293
+msgid "Standard"
+msgstr "Standardi"
+
+#: inc/styles.php:276
+msgid "Row Layout"
+msgstr "Rivin ulkoasu"
+
+#: inc/styles.php:212
+msgid "Background Image Display"
+msgstr "Taustakuvan näyttö"
+
+#: inc/styles.php:218
+msgid "Centered, with original size"
+msgstr "Keskitetty, alkuperäinen koko"
+
+#: inc/styles.php:282
+msgid "Full Width Stretched"
+msgstr "Täysi leveys venytettynä"
+
+#: inc/styles.php:260
+msgid "Bottom Margin"
+msgstr "Alamarginaali"
+
+#: inc/styles.php:216
+msgid "Tiled Image"
+msgstr "Laattakuvio"
+
+#: inc/styles.php:253
+msgid "Class added to all cells in this row."
+msgstr "Luokka lisätty kaikkiin tämän rivin soluihin."
+
+#: inc/styles.php:250
+msgid "Cell Class"
+msgstr "Solun luokka"

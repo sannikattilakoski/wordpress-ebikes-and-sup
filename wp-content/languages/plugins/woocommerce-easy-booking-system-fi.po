@@ -1,0 +1,443 @@
+# Translation of Plugins - WooCommerce Easy Booking - Stable (latest release) in Finnish
+# This file is distributed under the same license as the Plugins - WooCommerce Easy Booking - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-07-11 19:32:35+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: fi\n"
+"Project-Id-Version: Plugins - WooCommerce Easy Booking - Stable (latest release)\n"
+
+#: includes/settings/class-wceb-settings-page.php:95
+msgid "FAQ"
+msgstr "UKK"
+
+#: includes/settings/class-wceb-settings-page.php:93
+msgid "For more information:"
+msgstr "Lisätietoja:"
+
+#: includes/settings/class-wceb-settings-page.php:89
+msgid "%sPlugin settings%sLearn how to set up the plugin to get exactly what you need in the %sdocumentation%s.%sHelp and support%sYou have an issue or a question? Check the %sFAQ%s or send an email.%s"
+msgstr "%sLisäosan asetukset%sOpi käyttämään lisäosaa tutustumalla %sdokumentaatioon%s.%sOhjeet ja tuki%sOnko sinulla ongelmia lisäosan kanssa tai kysyttävää? Tutustu %susein kysyttyihin kysymyksiin%s tai lähetä sähköpostia.%s"
+
+#: includes/settings/class-wceb-settings-page.php:88
+msgid "Help and support"
+msgstr "Ohjeet ja tuki"
+
+#: includes/settings/class-wceb-settings-general.php:28
+msgid "Booking mode"
+msgstr "Varaustapa"
+
+#: includes/class-wceb-date-selection.php:50
+#: includes/class-wceb-date-selection.php:54
+msgid "Please select valid dates."
+msgstr "Valitse kelvolliset päivämäärät."
+
+#: includes/admin/views/notices/html-wceb-notice-upgrade-to-pro-reminder.php:27
+#: includes/admin/views/notices/html-wceb-notice-upgrade-to-pro.php:29
+msgid "Upgrade to PRO"
+msgstr "Päivitä PRO-versioon"
+
+#: includes/admin/views/notices/html-wceb-notice-upgrade-to-pro.php:25
+msgid "Please be careful when upgrading and %sfollow the instructions%s."
+msgstr "Noudata huolellisuutta päivityksessä ja %sseuraa ohjeita%s."
+
+#: includes/admin/views/notices/html-wceb-notice-upgrade-to-pro-reminder.php:23
+#: includes/admin/views/notices/html-wceb-notice-upgrade-to-pro.php:23
+msgid "If you have one or several add-ons and a valid license key, %syou can download the new PRO version for free%s."
+msgstr "Jos käytössäsi on useita lisäosia ja voimassa oleva lisenssiavain, %svoit ladata uuden pro-version maksutta%s."
+
+#: includes/admin/views/notices/html-wceb-notice-upgrade-to-pro.php:21
+msgid "Add-ons have been merged into a single PRO version regrouping all features. Add-ons will be maintained and supported until December 31st, 2021 only."
+msgstr "Lisäosat on yhdistetty yhdeksi pro-versioksi, joka sisältää kaikki ominaisuudet. Lisäosia ylläpidetään ja tuetaan 31.12.2021 asti."
+
+#: includes/admin/views/notices/html-wceb-notice-upgrade-to-pro-reminder.php:18
+#: includes/admin/views/notices/html-wceb-notice-upgrade-to-pro.php:18
+msgid "Easy Booking: upgrade to PRO version."
+msgstr "Easy Booking: päivitä pro-versioon."
+
+#: includes/admin/views/products/html-wceb-product-options.php:93
+msgid "First available date, relative to the current day. Leave 0 for the current day. Leave empty to use global settings."
+msgstr "Ensimmäinen sallittu päivämäärä, suhteellinen kuluvaan päivään. Aseta arvoksi 0 käyttääksesi kuluvaa päivää. Jätä tyhjäksi käyttääksesi globaalia asetusta."
+
+#: includes/admin/views/products/html-wceb-variation-options.php:81
+msgid "First available date, relative to the current day. Leave 0 for the current day. Leave empty to use parent or global settings."
+msgstr "Ensimmäinen sallittu päivämäärä, suhteellinen kuluvaan päivään. Aseta arvoksi 0 käyttääksesi kuluvaa päivää. Jätä tyhjäksi käyttääksesi ylätason arvoa tai globaalia asetusta."
+
+#: includes/admin/class-wceb-admin-product.php:57
+msgid "Bookable products require the selection of one or two date(s)."
+msgstr "Varattavat tuotteet edellyttävät yhden tai kahden päivämäärän valitsemista."
+
+#: includes/settings/views/html-wceb-pro-page.php:32
+msgid "Read more"
+msgstr "Lisätietoja"
+
+#: includes/settings/views/html-wceb-pro-page.php:30
+msgid "Easy Booking PRO is a premium extension for Easy Booking which adds lots of important features to enhance your WooCommerce store: stock management per date, disabled dates, prices depending on duration and/or dates, manual bookings and more."
+msgstr "Easy Booking PRO on premium-lisäosa, joka tarjoaa useita lisätoimintoja parantamaan WooCommerce-verkkokaupan käyttökokemusta: varastonhallinta päiväkohtaisesti, päiväkohtaiset rajoitukset, päivä- ja varauskestopohjainen hinnoittelu, manuaaliset varaukset ja paljon muuta."
+
+#: includes/settings/views/html-wceb-pro-page.php:28
+msgid "What is Easy Booking PRO?"
+msgstr "Mikä on Easy Booking Pro?"
+
+#: includes/settings/views/html-wceb-pro-page.php:22
+msgid "Easy Booking PRO"
+msgstr "Easy Booking PRO"
+
+#: includes/settings/class-wceb-pro-page.php:35
+#: includes/settings/class-wceb-pro-page.php:36
+msgid "PRO version"
+msgstr "Pro-versio"
+
+#. Description of the plugin
+msgid "A powerful and easy to use booking plugin for your WooCommerce store."
+msgstr "Tehokas ja helppokäyttöinen lisäosa varausten hallintaan WooCommerce-kauppaan."
+
+#: includes/class-wceb-ajax.php:148
+msgid "Please select a product."
+msgstr "Valitse tuote."
+
+#: includes/common/functions/wceb-misc-functions.php:141
+msgid "Please select dates before adding this product to your cart."
+msgstr "Valitse päivämäärät ennen tuotteen lisäämistä ostoskoriin."
+
+#: includes/common/functions/wceb-misc-functions.php:141
+msgid "Please select a date before adding this product to your cart."
+msgstr "Valitse päivämäärä ennen tuotteen lisäämistä ostoskoriin."
+
+#: includes/reports/views/html-wceb-reports-filters.php:68
+msgid "Filter"
+msgstr "Suodatin"
+
+#: includes/admin/class-wceb-admin-ajax.php:42
+msgid "Easy Booking database update complete. Thank you!"
+msgstr "Easy Booking -tietokantapäivitys on valmis. Kiitokset!"
+
+#: includes/admin/class-wceb-admin-ajax.php:34
+msgid "You don&#8217;t have permission to do this."
+msgstr "Sinulla ei ole toimintoon tarvittavaa oikeutta."
+
+#: includes/settings/class-wceb-tools-page.php:31
+#: includes/settings/class-wceb-tools-page.php:32
+#: includes/settings/views/html-wceb-tools-page.php:16
+msgid "Tools"
+msgstr "Työkalut"
+
+#: includes/settings/views/html-wceb-tools-page.php:27
+msgid "This tool will update your Easy Booking database to the latest version. Please ensure you make sufficient backups before proceeding."
+msgstr "Tämä työkalu päivittää Easy Booking -tietokannan viimeisimpään versioon. Varmuuskopioi tietokanta ennen jatkamista."
+
+#: includes/admin/views/notices/html-wceb-notice-update-database.php:24
+#: includes/settings/views/html-wceb-tools-page.php:26
+#: includes/settings/views/html-wceb-tools-page.php:33
+msgid "Update database"
+msgstr "Päivitä tietokanta"
+
+#: includes/admin/views/notices/html-wceb-notice-update-database.php:18
+msgid "A database update is required for Easy Booking. It won't take long."
+msgstr "Easy Booking edellyttää tietokantapäivitystä. Se kestää vain hetken."
+
+#: includes/views/html-wceb-single-product.php:43
+msgid "Clear dates"
+msgstr "Poista päivämäärät"
+
+#: includes/reports/views/html-wceb-reports-filters.php:37
+msgid "Search for a product&hellip;"
+msgstr "Hae tuotetta&hellip;"
+
+#: includes/reports/class-wceb-list-bookings.php:200
+msgid "Imported booking"
+msgstr "Tuotu varaus"
+
+#. translators: 1: first name 2: last name
+#: includes/reports/class-wceb-list-bookings.php:183
+msgctxt "full name"
+msgid "%1$s %2$s"
+msgstr "%1$s %2$s"
+
+#: includes/reports/class-wceb-list-bookings.php:90
+msgid "Quantity booked"
+msgstr "Varattu määrä"
+
+#: includes/reports/class-wceb-list-bookings.php:87
+msgid "Product"
+msgstr "Tuote"
+
+#: includes/reports/class-wceb-list-bookings.php:86
+msgid "Order"
+msgstr "Tilaus"
+
+#: includes/reports/class-wceb-list-bookings.php:85
+msgid "Status"
+msgstr "Tila"
+
+#: includes/reports/class-wceb-list-bookings.php:26
+#: includes/reports/class-wceb-reports-page.php:32
+#: includes/reports/class-wceb-reports-page.php:33
+msgid "Reports"
+msgstr "Raportit"
+
+#: includes/reports/class-wceb-list-bookings.php:25
+msgid "Report"
+msgstr "Raportti"
+
+#: includes/class-wceb-date-selection.php:391
+msgid "Average price %s: %s"
+msgstr "Keskihinta %s: %s"
+
+#: includes/class-wceb-date-selection.php:378
+msgid "Total booking duration: %s %s"
+msgstr "Varauksen kokonaiskesto: %s %s"
+
+#: includes/class-wceb-date-selection.php:373
+msgid "day"
+msgid_plural "days"
+msgstr[0] "päivä"
+msgstr[1] "päivää"
+
+#: includes/class-wceb-date-selection.php:373
+msgid "night"
+msgid_plural "nights"
+msgstr[0] "yö"
+msgstr[1] "yötä"
+
+#: includes/class-wceb-ajax.php:118 includes/class-wceb-ajax.php:252
+msgid "Sorry there was a problem. Please try again."
+msgstr "Tapahtui virhe. Yritä uudelleen."
+
+#: includes/class-wceb-ajax.php:158
+msgid "Please choose the quantity of items you wish to add to your cart&hellip;"
+msgstr "Valitse ostoskoriin lisättävä lukumäärä&hellip;"
+
+#: includes/class-wceb-ajax.php:153
+msgid "Please select product option."
+msgstr "Valitse tuotevaihtoehto."
+
+#: includes/class-wceb-date-selection.php:92
+msgid "Please choose valid dates"
+msgstr "Valitse kelvolliset päivämäärät"
+
+#: includes/wceb-single-product.php:60
+msgid "Select date(s)"
+msgstr "Valitse päivämäärä(t)"
+
+#: includes/settings/views/html-wceb-settings-page.php:19
+msgid "Booking statuses"
+msgstr "Varaustilat"
+
+#: includes/settings/views/html-wceb-settings-page.php:17
+msgid "General "
+msgstr "Yleiset"
+
+#: includes/settings/class-wceb-settings-page.php:94
+msgid "Documentation"
+msgstr "Dokumentaatio"
+
+#: includes/settings/class-wceb-settings-appearance.php:193
+msgid "Classic"
+msgstr "Klassinen"
+
+#: includes/settings/class-wceb-settings-appearance.php:192
+msgid "Default"
+msgstr "Oletus"
+
+#: includes/settings/class-wceb-settings-appearance.php:177
+msgid "For better rendering, prefer a light background and a dark text color."
+msgstr "Paremman ulkoasun vuoksi kannattaa suosia vaaleata taustaväriä ja tummaa tekstiväriä."
+
+#: includes/settings/class-wceb-settings-general.php:33
+msgid "Last available date"
+msgstr "Viimeinen sallittu päivämäärä"
+
+#: includes/settings/class-wceb-settings-appearance.php:29
+msgid "Text color"
+msgstr "Tekstin väri"
+
+#: includes/settings/class-wceb-settings-appearance.php:28
+msgid "Main color"
+msgstr "Pääväri"
+
+#: includes/settings/class-wceb-settings-appearance.php:27
+msgid "Background color"
+msgstr "Taustaväri"
+
+#: includes/settings/class-wceb-settings-appearance.php:26
+msgid "Calendar theme"
+msgstr "Kalenterin teema"
+
+#: includes/settings/views/html-wceb-settings-page.php:18
+msgid "Appearance"
+msgstr "Ulkoasu"
+
+#: includes/settings/class-wceb-settings-statuses.php:207
+#: includes/settings/class-wceb-settings-statuses.php:247
+#: includes/settings/class-wceb-settings-statuses.php:266
+#: includes/settings/class-wceb-settings-statuses.php:306
+msgid "Manually"
+msgstr "Manuaalisesti"
+
+#: includes/settings/class-wceb-settings-statuses.php:206
+#: includes/settings/class-wceb-settings-statuses.php:246
+#: includes/settings/class-wceb-settings-statuses.php:265
+#: includes/settings/class-wceb-settings-statuses.php:305
+msgid "Automatically"
+msgstr "Automaattisesti"
+
+#: includes/settings/class-wceb-settings-functions.php:286
+msgid "Delete"
+msgstr "Poista"
+
+#: includes/settings/class-wceb-settings-functions.php:240
+msgid "Add"
+msgstr "Lisää"
+
+#: includes/settings/class-wceb-settings-general.php:335
+msgid "Last available date, relative to the current day. Max: 3650 days (10 years)."
+msgstr "Viimeinen sallittu päivämäärä, suhteellinen kuluvaan päivään. Maksimi: 3650 päivää (10 vuotta)."
+
+#: includes/settings/class-wceb-settings-general.php:314
+msgid "First available date, relative to the current day. Leave 0 or empty to keep the current day. Customizable at product level."
+msgstr "Ensimmäinen sallittu päivämäärä, suhteellinen kuluvaan päivään. Aseta arvoksi 0 (tai tyhjä) käyttääksesi kuluvaa päivää. Muokattavissa tuotetasolla."
+
+#: includes/settings/class-wceb-settings-general.php:230
+msgid "Nights"
+msgstr "Yöt"
+
+#: includes/settings/class-wceb-settings-general.php:229
+msgid "Days"
+msgstr "Päivät"
+
+#: includes/admin/views/products/html-wceb-product-options.php:91
+#: includes/admin/views/products/html-wceb-variation-options.php:80
+#: includes/settings/class-wceb-settings-general.php:32
+msgid "First available date"
+msgstr "Ensimmäinen sallittu päivämäärä"
+
+#: includes/admin/views/products/html-wceb-variation-options.php:24
+#: includes/admin/views/products/html-wceb-variation-options.php:45
+#: includes/admin/views/products/html-wceb-variation-options.php:58
+#: includes/admin/views/products/html-wceb-variation-options.php:71
+#: includes/admin/views/products/html-wceb-variation-options.php:86
+msgid "Same as parent"
+msgstr "Sama kuin ylätasolla"
+
+#: includes/admin/views/products/html-wceb-product-options.php:38
+#: includes/admin/views/products/html-wceb-variation-options.php:42
+#: includes/settings/class-wceb-settings-general.php:29
+msgid "Booking duration"
+msgstr "Varauksen kesto"
+
+#: includes/admin/views/products/html-wceb-product-options.php:28
+#: includes/admin/views/products/html-wceb-variation-options.php:30
+#: includes/settings/class-wceb-settings-general.php:210
+msgid "Two"
+msgstr "Kaksi"
+
+#: includes/admin/views/products/html-wceb-product-options.php:27
+#: includes/admin/views/products/html-wceb-variation-options.php:27
+#: includes/settings/class-wceb-settings-general.php:209
+msgid "One"
+msgstr "Yksi"
+
+#: includes/admin/views/products/html-wceb-product-options.php:26
+#: includes/admin/views/products/html-wceb-product-options.php:42
+#: includes/admin/views/products/html-wceb-product-options.php:59
+#: includes/admin/views/products/html-wceb-product-options.php:76
+#: includes/admin/views/products/html-wceb-product-options.php:95
+msgid "Same as global settings"
+msgstr "Käytä globaalia asetusta"
+
+#: includes/admin/views/products/html-wceb-product-options.php:23
+#: includes/admin/views/products/html-wceb-variation-options.php:20
+#: includes/settings/class-wceb-settings-general.php:27
+msgid "Number of dates to select"
+msgstr "Valittavien päivämäärien lukumäärä"
+
+#: includes/admin/views/order-items/html-wceb-edit-order-item-meta.php:62
+#: includes/reports/views/html-wceb-reports-filters.php:30
+msgid "Completed"
+msgstr "Valmis"
+
+#: includes/admin/views/order-items/html-wceb-edit-order-item-meta.php:60
+#: includes/reports/views/html-wceb-reports-filters.php:28
+msgid "Processing"
+msgstr "Käsittelyssä"
+
+#: includes/admin/views/order-items/html-wceb-edit-order-item-meta.php:58
+#: includes/reports/views/html-wceb-reports-filters.php:26
+msgid "Pending"
+msgstr "Odottaa"
+
+#: includes/admin/views/order-items/html-wceb-edit-order-item-meta.php:51
+#: includes/admin/views/order-items/html-wceb-order-item-meta.php:37
+#: includes/reports/views/html-wceb-reports-filters.php:25
+msgid "Booking status"
+msgstr "Varauksen tila"
+
+#: includes/admin/functions/wceb-admin-product-functions.php:53
+msgid "Minimum booking duration must be inferior to maximum booking duration"
+msgstr "Varauksen vähimmäiskeston on oltava lyhyempi kuin varauksen enimmäiskeston"
+
+#: includes/common/third-party/plugins/wc-product-addons.php:31
+msgid "Multiply addon cost by booking duration?"
+msgstr "Käytä varauksen kestoa kustannuksen kertoimena?"
+
+#: includes/admin/class-wceb-admin-product.php:76
+#: includes/reports/views/html-wceb-reports-page.php:19
+msgid "Bookings"
+msgstr "Varaukset"
+
+#: includes/admin/class-wceb-admin-product.php:56
+#: includes/admin/class-wceb-admin-variation.php:49
+msgid "Bookable"
+msgstr "Varattava"
+
+#: includes/admin/views/order-items/html-wceb-edit-order-item-meta.php:61
+#: includes/common/functions/wceb-misc-functions.php:127
+#: includes/reports/class-wceb-list-bookings.php:89
+#: includes/reports/views/html-wceb-reports-filters.php:29
+#: includes/reports/views/html-wceb-reports-filters.php:60
+msgid "End"
+msgstr "Lopetus"
+
+#: includes/admin/views/order-items/html-wceb-edit-order-item-meta.php:59
+#: includes/common/functions/wceb-misc-functions.php:116
+#: includes/reports/class-wceb-list-bookings.php:88
+#: includes/reports/views/html-wceb-reports-filters.php:27
+#: includes/reports/views/html-wceb-reports-filters.php:54
+msgid "Start"
+msgstr "Aloitus"
+
+#: includes/common/functions/wceb-product-functions.php:354
+msgid " / day"
+msgid_plural " / %s days"
+msgstr[0] " / päivä"
+msgstr[1] " / %s päivää"
+
+#: includes/common/functions/wceb-product-functions.php:354
+msgid " / night"
+msgid_plural " / %s nights"
+msgstr[0] " / yö"
+msgstr[1] " / %s yötä"
+
+#: includes/settings/class-wceb-settings-page.php:32
+#: includes/settings/class-wceb-settings-page.php:33
+#: woocommerce-easy-booking.php:269
+msgid "Settings"
+msgstr "Asetukset"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://easy-booking.me/"
+msgstr "https://easy-booking.me/"
+
+#. Author of the plugin
+msgid "@_Ashanna"
+msgstr "@_Ashanna"
+
+#. Plugin Name of the plugin
+msgid "WooCommerce Easy Booking"
+msgstr "WooCommerce Easy Booking"
